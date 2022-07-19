@@ -1,2 +1,2 @@
 
-Create a pod called `my-pod`
+จงสร้างพอดชื่อ `my-pod`

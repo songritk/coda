@@ -1,2 +1,2 @@
 
-Delete the pod called `my-pod`
+ลบพอด `my-pod`

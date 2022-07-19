@@ -1,6 +1,6 @@
 
 <br>
 
-### WELL DONE !
+### คักหลาย !
 
-You solved this challenge!
+นักศึกษาแก้ปัญหาสำเร็จ!
